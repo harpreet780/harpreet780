@@ -6,5 +6,11 @@
 - 📫 How to reach me **harpreetsaini276@gmail.com**.
 - ⚡ Fun fact **Never Give Up and Always Ready to do Different or Unique**.
 
-<h3 align="left">Connect with me:</h3>
-[![LinkedIn]https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-harpreet-saini-72812419b)
+## 📈 GitHub Stats 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harpreet780&show_icons=true" alt="harpreet780" /></p>
+
+# 🏅 My Achievements 🏅
+| Badge | Name | 
+| :-: | :-: | 
+|<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="200px" height="200px">| Pull Shark        |
