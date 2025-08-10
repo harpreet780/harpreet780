@@ -2,7 +2,6 @@
 <h3 align="center">Result oriented professional in Website Devlopment</h3>
 
 - 🔭 I’m currently working as **Website Devlopment in ReactJS**.
-- 🌱 I’m currently learning **React Native**
 - 📫 How to reach me **harpreetsaini276@gmail.com**.
 - ⚡ Fun fact **Never Give Up and Always Ready to do Different or Unique**.
 
